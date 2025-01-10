@@ -1,5 +1,5 @@
-# Simple Linear Regression
+# Linear Regression
 
-Excercise in coding a simple linear regression model (univariate and multiple-linear regression) to fit the provided data, along with the relevant metrics, graphs and visualizations.
+Excercise in coding a simple linear regression model to fit the provided data, along with the relevant metrics, graphs and visualizations.
 
-**[📋 Exercise Notebook & Results (Web Preview)](./main.html)**
+**[📋 Exercise Notebook & Results (PDF export)](./main.pdf)**
